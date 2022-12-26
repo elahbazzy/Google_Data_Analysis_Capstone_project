@@ -26,7 +26,7 @@ Primary stakeholders: The director of marketing and Cyclistic executive team
 
 Secondary stakeholders: Cyclistic marketing analytics team
 ### PHASE 2: Data Preparation
-The data that we will be using is Cyclistic’s historical trip data from last 12 months (Sep-2021 to Aug-2022). The data has been made available by Motivate International Inc. on this link under this license.
+The data that we will be using is Cyclistic’s historical trip data from last 12 months (Sep-2021 to Aug-2022). The data has been made available by Motivate International Inc. on this [link](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 The dataset consists of 12 CSV files (each for a month) with 13 columns and more than 4 million rows.
 
