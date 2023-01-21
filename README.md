@@ -26,7 +26,7 @@ Primary stakeholders: The director of marketing and Cyclistic executive team
 
 Secondary stakeholders: Cyclistic marketing analytics team
 ### PHASE 2: Data Preparation
-The data that we will be using is Cyclistic’s historical trip data from last 12 months (Sep-2021 to Aug-2022). The data has been made available by Motivate International Inc. on this [link](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://ride.divvybikes.com/data-license-agreement).
+The data that we will be using is Cyclistic’s historical trip data from last 12 months (jan-2022 to dec-2022). The data has been made available by Motivate International Inc. on this [link](https://divvy-tripdata.s3.amazonaws.com/index.html) under this [license](https://ride.divvybikes.com/data-license-agreement).
 
 The dataset consists of 12 CSV files (each for a month) with 13 columns and more than 4 million rows.
 
@@ -41,4 +41,4 @@ Data Limitation
 
 A quick filtering and checking data for completeness shows that “start station name and ID” and “end station name and ID” for some rides are missing. Further observations suggest that the most missing data about “start station name” belongs to “electric bikes” as 201,975 out of 888,490 electric ride shares have missing data and it accounts for 22% of total electric-bike ride shares.
 
-This limitation could slightly affect our analysis for finding stations where most electric-bikes are taken but we can use “end station names” to locate our customers and this can be used for further analysis and potential marketing campaigns. <![endif]-->
+This limitation could slightly affect our analysis for finding stations where most electric-bikes are taken but we can use “end station names” to locate our customers and this can be used for further analysis and potential marketing campaigns. 
